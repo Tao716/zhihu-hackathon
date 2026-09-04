@@ -1,0 +1,4 @@
+.vefaas/
+.env
+.env.*
+!.env.example
