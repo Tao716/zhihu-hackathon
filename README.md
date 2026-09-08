@@ -52,8 +52,8 @@
 ### 1. 下载并启动
 
 ```bash
-git clone https://github.com/Tao716/zhihu-hackathon.git
-cd zhihu-hackathon
+git clone https://github.com/Tao716/feishu-hackathon.git
+cd feishu-hackathon
 cp .env.example .env
 npm start
 ```
@@ -206,7 +206,7 @@ curl http://localhost:3000/api/analyze \
 ### 目录结构
 
 ```text
-zhihu-hackathon/
+feishu-hackathon/
 ├── public/
 │   └── index.html          # 产品页面、交互、任务编辑与 Markdown 导出
 ├── docs/
